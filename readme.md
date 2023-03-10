@@ -15,4 +15,4 @@ O código deve rodar em um laço que vai receber propriedades até a pessoa digi
 Um código capaz de receber uma lista de propriedades de CSS. A entrega deve ser realizada em um repositório Github.
 
 
-🌐 Link do projeto no github Pages: 
+🌐 Link do projeto no github Pages: https://github.com/igorgonzalez96/projeto--individual--md-5/
